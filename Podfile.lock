@@ -1,0 +1,26 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - DACircularProgress
+  - SDWebImage
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DACircularProgress
+    - SDWebImage
+    - YYModel
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 5de4bfd23726aee55167bc1516faf82bab865ef9
+
+COCOAPODS: 1.5.0
